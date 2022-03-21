@@ -10,12 +10,7 @@ In this project we are examining dataset provided by the course staff using inst
     ├── Machine Learning Project.ipynb      # the main code
     ├── Submission_group_3.csv              # data   
     ├── doc                                 # documents
-    ├── gephi_graphs                        # ready gephi graphs
-    ├── images                    
-    ├── networkx_graphs                     # graphs from networkx that are ready for gephi visualization
-    ├── old_notebooks
-    ├── Complex networks - project.pdf      # project report
-    ├── README.md
+    ├── IntroToML-report                    # documents
     └── requierments.txt
 
 
