@@ -9,6 +9,7 @@ In this project we are examining dataset provided by the course staff using inst
     .
     ├── IntroToML-report                    # report
     ├── Machine Learning Project.ipynb      # the main code
+    ├──README.md
     └── Submission_group_3.csv              # data   
 
 
